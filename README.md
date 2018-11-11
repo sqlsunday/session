@@ -11,8 +11,7 @@ the SQL Server. It returns 6 recordsets, in the following order:
 5. Open transactions, type, isolation level
 6. Locks by object, partition, including size, wait type, blocking info.
 
-Copyright Daniel Hutmacher under Creative Commons 4.0 license with attribution.
-http://creativecommons.org/licenses/by/4.0/
+Copyright Daniel Hutmacher under [Creative Commons 4.0 license with attribution](http://creativecommons.org/licenses/by/4.0/).
 
 Source:  http://sqlsunday.com/downloads/
 
